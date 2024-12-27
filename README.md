@@ -1,4 +1,4 @@
-# Dash Engine - Filesystem Utilities
+# Dash Engine - Filesystem/Networking Utilities
 
 A simple library crate that provides utility functions for interacting with the filesystem, including creating, reading, and deleting files. 
 
