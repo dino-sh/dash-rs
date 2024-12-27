@@ -1,0 +1,12 @@
+[package]
+name = "dash-rs"
+version = "0.1.0"
+authors = ["dino.sh"]
+edition = "2021"
+description = "A filesystem-engine that handles creating/reading/deleting/write/... files. Also includes an network-manager (dev): Download files."
+readme = "README.md"
+license-file = "LICENSE"
+keywords = ["utility", "filesystem", "engine", "networking"]
+repository = "https://github.com/dino-sh/dash-rs"
+
+[dependencies]
