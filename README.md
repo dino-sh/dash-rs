@@ -20,10 +20,10 @@ To add this crate as a dependency in your project, update your `Cargo.toml` file
 
 ```toml
 [dependencies]
-dash_engine = "0.1"
+dash_rs = "0.1.0"
 ```
 
-Replace `"0.1"` with the appropriate version if needed.
+Replace `"0.1.0"` with the appropriate version if needed.
 
 ## Usage
 
